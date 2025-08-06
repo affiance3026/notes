@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 use following commands to clone and run
-
+```bash
 git clone https://github.com/affiance3026/notes.git
 cd notes
 flutter pub get
