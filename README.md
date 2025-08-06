@@ -1,6 +1,8 @@
 # notes
 
-A new Flutter project.
+A Flutter-based note-taking app with **cloud sync** powered by **Firebase**.  
+Supports **Google and Email authentication** and lets you create rich markdown notes with images and various labels.
+
 
 ## Getting Started
 
